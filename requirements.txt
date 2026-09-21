@@ -1,0 +1,9 @@
+ipykernel
+openpyxl
+langchain
+langchain_openai
+pandas
+pillow
+requests
+pydantic
+python-dotenv
