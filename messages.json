@@ -1,0 +1,2509 @@
+[
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAOhj51K\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEuASWvAAA=",
+        "createdDateTime": "2024-02-14T00:31:16Z",
+        "lastModifiedDateTime": "2026-09-22T01:32:22Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAOhj51K",
+        "categories": [],
+        "receivedDateTime": "2024-02-14T00:32:08Z",
+        "sentDateTime": "2024-02-14T00:32:05Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB626790A66A3491478179DD20B34E2@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Approved Timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAK30WR_8cWdJjdKDWhOC9eQ=",
+        "conversationIndex": "AQHaXt0frfRZH7xxZ0mN0oNaE4L15A==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEuASWvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAErT0wu\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEsFDTJAAA=",
+        "createdDateTime": "2024-02-10T00:52:22Z",
+        "lastModifiedDateTime": "2024-02-10T00:52:44Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAErT0wu",
+        "categories": [],
+        "receivedDateTime": "2024-02-10T00:52:43Z",
+        "sentDateTime": "2024-02-10T00:52:42Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB62677B5477AA8CE6261A6547B34A2@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Submitted Timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQACYflmDuBOhBj7cUDniEvz0=",
+        "conversationIndex": "AQHaW7toJh+WYO4E6EGPtxQOeIS/PQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEsFDTJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAErTxmT\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEsFDTIAAA=",
+        "createdDateTime": "2024-02-08T17:46:24Z",
+        "lastModifiedDateTime": "2024-02-08T17:46:46Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAErTxmT",
+        "categories": [],
+        "receivedDateTime": "2024-02-08T17:46:46Z",
+        "sentDateTime": "2024-02-08T17:46:45Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB62679CC77385B5B6714F8F9EB3442@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Approved Timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAAjKyKW3XMpJmyBZR-UK3og=",
+        "conversationIndex": "AQHaWra8CMrIpbdcykmbIFlH9QreiA==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEsFDTIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEp/xJJ\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEqw2WQAAA=",
+        "createdDateTime": "2024-02-06T18:55:59Z",
+        "lastModifiedDateTime": "2024-02-06T18:56:52Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEp/xJJ",
+        "categories": [],
+        "receivedDateTime": "2024-02-06T18:56:36Z",
+        "sentDateTime": "2024-02-06T18:56:35Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB6267AFCEE50F7B78DC1A6759B3462@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Re: URGENT : PAYROLL CLOSURE TIME",
+        "bodyPreview": "Please see the attached timesheet\r\n________________________________\r\nFrom: timesheets MAC <timesheets@mobileappscompany.com>\r\nSent: Tuesday, February 6, 2024 7:12 AM\r\nTo: timesheets MAC <timesheets@mobileappscompany.com>\r\nSubject: RE: URGENT : PAYROLL CLO",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAPe7lKd-WXJKm3jqWajLtMc=",
+        "conversationIndex": "AQHaUFSS97uUp39ZckqbeOpZqMu0x7D9S03QgABwSWE=",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEqw2WQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Please see the attached timesheet</div><div id=\"appendonsend\"></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Sent:</b> Tuesday, February 6, 2024 7:12 AM<br><b>To:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Subject:</b> RE: URGENT : PAYROLL CLOSURE TIME</font> <div>&nbsp;</div></div><style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\n@font-face\r\n\t{font-family:Aptos}\r\np.x_MsoNormal, li.x_MsoNormal, div.x_MsoNormal\r\n\t{margin:0cm;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Aptos\",sans-serif}\r\np.x_m-1073245753314175255yiv5753567899msonormal, li.x_m-1073245753314175255yiv5753567899msonormal, div.x_m-1073245753314175255yiv5753567899msonormal\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\np.x_xxxxmsonormal333, li.x_xxxxmsonormal333, div.x_xxxxmsonormal333\r\n\t{margin:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.x_EmailStyle21\r\n\t{font-family:\"Aptos\",sans-serif;\r\n\tcolor:windowtext}\r\n.x_MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\n-->\r\n</style><div lang=\"EN-IN\" style=\"word-wrap:break-word\"><div class=\"x_WordSection1\"><p class=\"x_MsoNormal\"><span style=\"font-size:11.0pt; background:yellow\">Correction weekend 02/02 please</span><span style=\"font-size:11.0pt\"></span></p><p class=\"x_MsoNormal\"><span style=\"font-size:11.0pt\">&nbsp;</span></p><p class=\"x_MsoNormal\"><span style=\"font-size:11.0pt\">Thank you</span></p><p class=\"x_MsoNormal\"><span style=\"font-size:11.0pt\">&nbsp;</span></p><div><div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm\"><p class=\"x_MsoNormal\"><b><span lang=\"EN-US\" style=\"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif\">From:</span></b><span lang=\"EN-US\" style=\"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif\"> timesheets MAC &lt;timesheets@mobileappscompany.com&gt; <br><b>Sent:</b> Tuesday, February 6, 2024 4:02 AM<br><b>To:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Subject:</b> URGENT : PAYROLL CLOSURE TIME</span></p></div></div><p class=\"x_MsoNormal\">&nbsp;</p><div id=\"x_SafeStyles1707199954\"><div id=\"x_SafeStyles1706063777\"><div id=\"x_SafeStyles1706026084\"><div id=\"x_SafeStyles1705980107\"><div id=\"x_SafeStyles1705262303\"><div id=\"x_SafeStyles1705040401\"><div><div id=\"x_x_SafeStyles1704235276\"><div><div id=\"x_x_SafeStyles1704182023\"><div id=\"x_x_SafeStyles1703789481\"><div id=\"x_x_SafeStyles1703714560\"><div id=\"x_x_SafeStyles1703572151\"><div id=\"x_x_SafeStyles1703197092\"><div id=\"x_x_SafeStyles1703174356\"><div><div id=\"x_x_x_SafeStyles1701975244\"><div><div id=\"x_x_x_x_SafeStyles1701728248\"><div><div id=\"x_x_x_x_SafeStyles1701121752\"><div id=\"x_x_x_x_SafeStyles1700963369\"><div id=\"x_x_x_x_SafeStyles1699944805\"><blockquote style=\"margin-top:5.0pt; margin-bottom:5.0pt\"><div><div id=\"x_x_x_x_SafeStyles1699458323\"><div><div id=\"x_x_x_x_x_SafeStyles1699045497\"><div><div id=\"x_x_x_x_x_ms-outlook-mobile-signature\"><div id=\"x_x_x_x_x_mail-editor-reference-message-container\"><p class=\"x_MsoNormal\">&nbsp;</p><p class=\"x_MsoNormal\"><span style=\"\">&nbsp;</span></p><p class=\"x_MsoNormal\" style=\"margin-right:144.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif; color:black\">Hi,</span></p><p class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"margin-right:72.0pt; text-align:justify\"><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black\">Please share</span><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif\"> <b>approved</b><span style=\"color:black\"> timesheet&nbsp;<b>weekend 0</b></span><b>2/09</b>&nbsp;<span style=\"color:black\">for</span> <span style=\"color:black\">payroll closure and avoid any impact on PAY.</span></span></p><p class=\"x_MsoNormal\" style=\"margin-right:108.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif; color:black\">Thank you </span></p><p class=\"x_xxxxmsonormal333\"><span style=\"font-size:10.0pt; font-family:&quot;Arial&quot;,sans-serif\">&nbsp;</span></p></div></div></div></div></div></div></div></blockquote></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAOhj51c\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEmIEB_AAA=",
+        "createdDateTime": "2024-01-30T20:16:51Z",
+        "lastModifiedDateTime": "2026-09-22T01:32:45Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAOhj51c",
+        "categories": [],
+        "receivedDateTime": "2024-01-30T20:17:11Z",
+        "sentDateTime": "2024-01-30T20:17:10Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB62671E85E8FECB00E1C6353CB37D2@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Timesheet",
+        "bodyPreview": "FYI\r\n\r\nSincerely,\r\nSalman",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAIpMfOhO2s9BkRUuHcu13Ok=",
+        "conversationIndex": "AQHaU7lCikx86E7az0GRFS4dy7Xc6Q==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEmIEB%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">FYI</div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Sincerely, <div>Salman</div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEi/RXb\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEjvLjyAAA=",
+        "createdDateTime": "2024-01-27T19:56:09Z",
+        "lastModifiedDateTime": "2024-01-27T19:56:48Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEi/RXb",
+        "categories": [],
+        "receivedDateTime": "2024-01-27T19:56:47Z",
+        "sentDateTime": "2024-01-27T19:56:46Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB6267EBDF29C4968E32DFD0AAB3782@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Re: URGENT : PAYROLL CLOSURE TIME",
+        "bodyPreview": "FYI.\r\n\r\nSincerely,\r\nSalman\r\n________________________________\r\nFrom: timesheets MAC <timesheets@mobileappscompany.com>\r\nSent: Friday, January 26, 2024 7:38 AM\r\nTo: timesheets MAC <timesheets@mobileappscompany.com>\r\nSubject: URGENT : PAYROLL CLOSURE TIME",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAPe7lKd-WXJKm3jqWajLtMc=",
+        "conversationIndex": "AQHaUFSS97uUp39ZckqbeOpZqMu0x7DuFRQL",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEjvLjyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">FYI.</div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Sincerely, <div>Salman</div></div><div id=\"appendonsend\"></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Sent:</b> Friday, January 26, 2024 7:38 AM<br><b>To:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Subject:</b> URGENT : PAYROLL CLOSURE TIME</font> <div>&nbsp;</div></div><style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\n@font-face\r\n\t{font-family:Sans}\r\np.x_MsoNormal, li.x_MsoNormal, div.x_MsoNormal\r\n\t{margin:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\np.x_m-1073245753314175255yiv5753567899msonormal, li.x_m-1073245753314175255yiv5753567899msonormal, div.x_m-1073245753314175255yiv5753567899msonormal\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\np.x_xxxxmsonormal333, li.x_xxxxmsonormal333, div.x_xxxxmsonormal333\r\n\t{margin:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.x_EmailStyle27\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\np.x_m-1073245753314175255yiv9973830777msonormal, li.x_m-1073245753314175255yiv9973830777msonormal, div.x_m-1073245753314175255yiv9973830777msonormal\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.x_EmailStyle30\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.x_MsoChpDefault\r\n\t{font-family:\"Calibri\",sans-serif}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\nol\r\n\t{margin-bottom:0cm}\r\nul\r\n\t{margin-bottom:0cm}\r\n-->\r\n</style><div lang=\"EN-IN\" style=\"word-wrap:break-word\"><div class=\"x_WordSection1\"><div id=\"x_SafeStyles1706063777\"><div id=\"x_SafeStyles1706026084\"><div id=\"x_SafeStyles1705980107\"><div id=\"x_SafeStyles1705262303\"><div id=\"x_SafeStyles1705040401\"><div><div id=\"x_x_SafeStyles1704235276\"><div><div id=\"x_x_SafeStyles1704182023\"><div id=\"x_x_SafeStyles1703789481\"><div id=\"x_x_SafeStyles1703714560\"><div id=\"x_x_SafeStyles1703572151\"><div id=\"x_x_SafeStyles1703197092\"><div id=\"x_x_SafeStyles1703174356\"><div><div id=\"x_x_x_SafeStyles1701975244\"><div><div id=\"x_x_x_x_SafeStyles1701728248\"><div><div id=\"x_x_x_x_SafeStyles1701121752\"><div id=\"x_x_x_x_SafeStyles1700963369\"><div id=\"x_x_x_x_SafeStyles1699944805\"><blockquote style=\"margin-top:5.0pt; margin-bottom:5.0pt\"><div><div id=\"x_x_x_x_SafeStyles1699458323\"><div><div id=\"x_x_x_x_x_SafeStyles1699045497\"><div><div id=\"x_x_x_x_x_ms-outlook-mobile-signature\"><div id=\"x_x_x_x_x_mail-editor-reference-message-container\"><p class=\"x_MsoNormal\"><span style=\"font-size:10.0pt; font-family:&quot;Arial&quot;,sans-serif\"></span>&nbsp;<span style=\"font-size:10.0pt; font-family:&quot;Arial&quot;,sans-serif\">&nbsp;</span><span style=\"\"></span></p><p class=\"x_MsoNormal\" style=\"margin-right:144.0pt\"><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black\">Hi,</span></p><p class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"margin-right:72.0pt; text-align:justify\"><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black\">Please share timesheet&nbsp;<b>weekend 01/</b></span><b><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif\">26</span></b><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif\">&nbsp;<span style=\"color:black\">for</span> <span style=\"color:black\">payroll closure and avoid any impact on PAY.</span></span></p><p class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"text-align:justify\"><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black\">If </span><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif\">you are <span style=\"color:black\">missing <b>approvals 01/05</b></span><b>,<span style=\"color:black\"> 01/12</span>,01/19</b><span style=\"color:black\"> &nbsp;please send &nbsp;ONLY if not /done earlier.</span> If you are on <b>biweekly approval cycle</b> please share mid Jan approved copy ASAP <span style=\"color:black\">to avoid any future impact on pay</span>.<span style=\"color:black\"></span></span></p><p class=\"x_MsoNormal\" style=\"margin-right:72.0pt; text-align:justify\">&nbsp;</p><p style=\"margin-right:0cm; margin-bottom:12.0pt; margin-left:0cm; text-align:justify\"><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black; background:yellow\">IMP Points to NOTE below</span><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; background:yellow\"> for timesheets and PAYROLL<span style=\"color:black\">:</span></span></p><ol start=\"1\" type=\"1\"><li class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"color:red; text-align:justify\"><span style=\"font-size:12.0pt; font-family:Sans\">If project ends, please get final timesheet approved prior last day OR add hours on email with dates and get it approved by client manager ASAP before you lose access at the client site &nbsp;</span></li><li class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"text-align:justify\"><span style=\"font-size:12.0pt; font-family:Sans\">if you worked billable hours at client site on EIT&nbsp;paid<span class=\"x_m-1073245753314175255apple-converted-space\">&nbsp;</span><strong><span style=\"font-family:Sans\">HOLIDAY days</span></strong>, please get client manager approval and let us know via email, failing to do so will result in NO PAY for that day.</span></li><li class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"text-align:justify\"><span style=\"font-size:12.0pt; font-family:Sans\">For split of month week timesheet. Please share both month screen shot showing weekly hours example: from date Aug 29th to Sept 2nd.</span></li><li class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"text-align:justify\"><span style=\"font-size:12.0pt; font-family:Sans\">For ptos please apply in paycor approved by your EIT manager and let us know when sending timesheet what days are not work days to record your hours accurately</span></li><li class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"text-align:justify\"><span style=\"font-size:12.0pt\">If client timesheet displays your name over it please always share full screen shot showing your name, correct current dates, clarity of hours and clear screen shot.</span></li></ol><p style=\"margin-right:0cm; margin-bottom:12.0pt; margin-left:0cm; text-align:justify\"><span style=\"font-size:12.0pt; font-family:Sans; color:black; background:yellow\">URGENT action on below to avoid impact on pay please:</span></p><ol start=\"1\" type=\"1\"><li class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"text-align:justify\"><span style=\"font-size:12.0pt; font-family:Sans\">If you are missing any back dated approvals<strong><span style=\"font-family:Sans\">&nbsp;</span></strong>please send &nbsp;ONLY if not done earlier to avoid any future impact on pay.</span></li><li class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"text-align:justify\"><span style=\"font-size:12.0pt; font-family:Sans\">If you are on two projects, please share secondary or short term project approvals ASAP.</span></li><li class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"text-align:justify\"><span style=\"font-size:12.0pt; font-family:Sans\">If you are on biweekly/month end approvals please share</span><span style=\"font-size:12.0pt\">&nbsp;<b>Mid/end approvals</b>&nbsp;</span><span style=\"font-size:12.0pt; font-family:Sans\">ASAP if not done earlier.</span></li></ol><p class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"margin-right:72.0pt; margin-bottom:0cm; margin-left:0cm; text-align:justify\"><span style=\"font-size:12.0pt; font-family:Sans\">Thank you.&nbsp; Have a great week.</span></p><p class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"margin-right:72.0pt; margin-bottom:0cm; margin-left:0cm; text-align:justify\"><span style=\"font-size:12.0pt\">&nbsp;</span></p><p class=\"x_MsoNormal\" style=\"text-align:justify\"><span style=\"font-size:12.0pt; font-family:Sans\">&nbsp;PS” please always cc you CDM when sending timesheet.</span></p><p class=\"x_MsoNormal\" style=\"text-align:justify\"><span style=\"font-size:10.0pt; font-family:&quot;Arial&quot;,sans-serif\">&nbsp;</span></p><p class=\"x_MsoNormal\" style=\"text-align:justify\"><span style=\"font-size:10.0pt; font-family:&quot;Arial&quot;,sans-serif\">&nbsp;</span></p><p class=\"x_MsoNormal\" style=\"text-align:justify\"><span style=\"font-size:10.0pt; font-family:&quot;Arial&quot;,sans-serif\">&nbsp;</span></p><p class=\"x_m-1073245753314175255yiv9973830777msonormal\" style=\"margin:0cm; text-align:justify\">&nbsp;</p><p class=\"x_MsoNormal\" style=\"text-align:justify\">&nbsp;</p><p class=\"x_MsoNormal\" style=\"margin-right:36.0pt; margin-left:36.0pt\">&nbsp;</p><p class=\"x_MsoNormal\" style=\"margin-right:36.0pt; margin-left:36.0pt\">&nbsp;</p><p style=\"margin:0cm\">&nbsp;</p><p class=\"x_xxxxmsonormal333\"><span style=\"font-size:10.0pt; font-family:&quot;Arial&quot;,sans-serif\">&nbsp;</span></p></div></div></div></div></div></div></div></blockquote></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEhhBR1\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEiQuQ6AAA=",
+        "createdDateTime": "2024-01-24T19:19:16Z",
+        "lastModifiedDateTime": "2024-01-24T21:29:19Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEhhBR1",
+        "categories": [],
+        "receivedDateTime": "2024-01-24T19:19:34Z",
+        "sentDateTime": "2024-01-24T19:19:33Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB626774FED0D0784741EA0DEFB37B2@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Re: Approved timesheet",
+        "bodyPreview": "I have attached approved timesheet for 1/9\r\n________________________________\r\nFrom: timesheets MAC <timesheets@mobileappscompany.com>\r\nSent: Wednesday, January 24, 2024 4:59 AM\r\nTo: timesheets MAC <timesheets@mobileappscompany.com>\r\nSubject: Approved time",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAJBxXpBw6UtsgJNo1dWYNmw=",
+        "conversationIndex": "AdpOrD0WkHFekHDpS2yAk2jV1Zg2bAATfvY5",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEiQuQ6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\"><span style=\"letter-spacing:normal; font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:16px; color:rgb(0,0,0); background-color:rgb(255,255,255); font-weight:400\">I have attached approved timesheet for 1/</span><span style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">9</span></div><div id=\"appendonsend\"></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Sent:</b> Wednesday, January 24, 2024 4:59 AM<br><b>To:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Subject:</b> Approved timesheet</font> <div>&nbsp;</div></div><style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\n@font-face\r\n\t{font-family:Aptos}\r\np.x_MsoNormal, li.x_MsoNormal, div.x_MsoNormal\r\n\t{margin:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Aptos\",sans-serif}\r\nspan.x_EmailStyle19\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\np.x_m-1073245753314175255yiv5753567899msonormal, li.x_m-1073245753314175255yiv5753567899msonormal, div.x_m-1073245753314175255yiv5753567899msonormal\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\n.x_MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\n-->\r\n</style><div lang=\"EN-IN\" style=\"word-wrap:break-word\"><div class=\"x_WordSection1\"><p class=\"x_MsoNormal\" style=\"margin-right:144.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"></span><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black\">Hi,</span><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black\"></span></p><p class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"margin-right:72.0pt; text-align:justify\"><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black\">Please share</span><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif\"> <b>approved</b> copy<span style=\"color:black\"> timesheet&nbsp;<b>weekend 01/</b></span><b>19</b>&nbsp;<span style=\"color:black\">for</span> billing<span style=\"color:black\"> closure and avoid any impact on PAY.</span></span></p><p class=\"x_MsoNormal\" style=\"margin-right:108.0pt\">&nbsp;<span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black\">Thank you</span> <span style=\"font-family:&quot;Calibri&quot;,sans-serif\"></span></p><p class=\"x_MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEhhBLH\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEiQuQ5AAA=",
+        "createdDateTime": "2024-01-24T19:18:18Z",
+        "lastModifiedDateTime": "2024-01-24T19:19:14Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEhhBLH",
+        "categories": [],
+        "receivedDateTime": "2024-01-24T19:19:13Z",
+        "sentDateTime": "2024-01-24T19:19:12Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB6267A16C6252B16435AC81AEB37B2@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Re: : Approval missing - Done",
+        "bodyPreview": "I have attached approved timesheet for 1/12\r\n________________________________\r\nFrom: timesheets MAC <timesheets@mobileappscompany.com>\r\nSent: Wednesday, January 24, 2024 5:01 AM\r\nTo: timesheets MAC <timesheets@mobileappscompany.com>\r\nSubject: : Approval m",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQACWl7z9B6ZxJlJskMzowi6c=",
+        "conversationIndex": "AQHaTvo2JaXvP0HpnEmUmyQzOjCLpw==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEiQuQ5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">I have attached approved timesheet for 1/12</div><div class=\"elementToProof\"></div><div id=\"appendonsend\"></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Sent:</b> Wednesday, January 24, 2024 5:01 AM<br><b>To:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Subject:</b> : Approval missing </font><div>&nbsp;</div></div><style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\np.x_MsoNormal, li.x_MsoNormal, div.x_MsoNormal\r\n\t{margin:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\np.x_xxxxxmsonormal333, li.x_xxxxxmsonormal333, div.x_xxxxxmsonormal333\r\n\t{margin:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\np.x_m-1073245753314175255yiv5753567899msonormal, li.x_m-1073245753314175255yiv5753567899msonormal, div.x_m-1073245753314175255yiv5753567899msonormal\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.x_EmailStyle21\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.x_MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\n-->\r\n</style><div lang=\"EN-IN\" style=\"word-wrap:break-word\"><div class=\"x_WordSection1\"><p class=\"x_MsoNormal\"><span style=\"\"></span></p><div><div><div id=\"x_x_SafeStyles1705980107\"><div id=\"x_x_SafeStyles1705262303\"><div id=\"x_x_SafeStyles1705040401\"><div><div id=\"x_x_x_SafeStyles1704235276\"><div><div id=\"x_x_x_SafeStyles1704182023\"><div id=\"x_x_x_SafeStyles1703789481\"><div id=\"x_x_x_SafeStyles1703714560\"><div id=\"x_x_x_SafeStyles1703572151\"><div id=\"x_x_x_SafeStyles1703197092\"><div id=\"x_x_x_SafeStyles1703174356\"><div><div id=\"x_x_x_x_SafeStyles1701975244\"><div><div id=\"x_x_x_x_x_SafeStyles1701728248\"><div><div id=\"x_x_x_x_x_SafeStyles1701121752\"><div id=\"x_x_x_x_x_SafeStyles1700963369\"><div id=\"x_x_x_x_x_SafeStyles1699944805\"><blockquote style=\"margin-top:5.0pt; margin-bottom:5.0pt\"><div><div id=\"x_x_x_x_x_SafeStyles1699458323\"><div><div id=\"x_x_x_x_x_x_SafeStyles1699045497\"><div><div id=\"x_x_x_x_x_x_ms-outlook-mobile-signature\"><div id=\"x_x_x_x_x_x_mail-editor-reference-message-container\"><p class=\"x_MsoNormal\" style=\"margin-right:144.0pt\"><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black\">Hi,</span></p><p class=\"x_m-1073245753314175255yiv5753567899msonormal\" style=\"margin-right:72.0pt; text-align:justify\"><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black\">Please share</span><span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif\"> <b>approved</b> copy<span style=\"color:black\"> timesheet&nbsp;<b>weekend 01/</b></span><b>12</b>&nbsp;<span style=\"color:black\">for</span> billing<span style=\"color:black\"> closure and avoid any impact on PAY.</span></span></p><p class=\"x_MsoNormal\" style=\"margin-right:108.0pt\">&nbsp;<span style=\"font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:black\">Thank you</span> </p><p class=\"x_xxxxxmsonormal333\">&nbsp;</p></div></div></div></div></div></div></div></blockquote></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEeLzLz\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEe7PXZAAA=",
+        "createdDateTime": "2024-01-20T00:36:55Z",
+        "lastModifiedDateTime": "2024-01-20T00:37:46Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEeLzLz",
+        "categories": [],
+        "receivedDateTime": "2024-01-20T00:37:45Z",
+        "sentDateTime": "2024-01-20T00:37:44Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB6267BDBACADA8355A7CCD536B3772@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Timesheet",
+        "bodyPreview": "Hello,\r\n\r\nPlease find attached my submitted timesheet\r\n\r\nSincerely,\r\nSalman",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQANZIB8iOCMtNvNqkB-mfHyI=",
+        "conversationIndex": "AQHaSzjE1kgHyI4Iy0282qQH+Z8fIg==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEe7PXZAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Hello,</div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Please find attached my submitted timesheet</div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Sincerely, <div>Salman</div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAOhj51m\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEalRMuAAA=",
+        "createdDateTime": "2024-01-14T02:39:55Z",
+        "lastModifiedDateTime": "2026-09-22T01:32:57Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAOhj51m",
+        "categories": [],
+        "receivedDateTime": "2024-01-14T02:41:18Z",
+        "sentDateTime": "2024-01-14T02:41:16Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB6267FF0ABCEB82964A66FD9CB36D2@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Timesheet 1/12",
+        "bodyPreview": "Hello team,\r\n\r\nPlease find attached timesheet.\r\n\r\nSincerely,\r\nSalman",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAJG1n2FFCYxAi4K0knNbTHk=",
+        "conversationIndex": "AQHaRpL1kbWfYUUJjECLgrSSc1tMeQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEalRMuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div dir=\"ltr\"><div dir=\"ltr\">Hello team,</div><div dir=\"ltr\"><br></div><div dir=\"ltr\">Please find a<span>ttached timesheet.</span></div><div dir=\"ltr\"><span><br></span></div><div dir=\"ltr\"><span>Since<span>rely,<br>Salman</span></span></div><div id=\"ms-outlook-mobile-signature\" dir=\"ltr\"><div dir=\"ltr\"></div></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9e7\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEX4PvcAAA=",
+        "createdDateTime": "2024-01-09T13:41:15Z",
+        "lastModifiedDateTime": "2026-05-05T16:41:45Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9e7",
+        "categories": [],
+        "receivedDateTime": "2024-01-09T13:42:31Z",
+        "sentDateTime": "2024-01-09T13:42:26Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB6267CDF14C9D0AE51D5F3479B36A2@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Re: Timesheet weekend 1/5/24",
+        "bodyPreview": "Good morning,\r\n\r\nHere is the approved timesheet including approved hours of Jan 1st.\r\n\r\nThank you.\r\n\r\nSincerely,\r\nSalman\r\n________________________________\r\nFrom: Manoj Shaw <mashaw@enhanceit.com>\r\nSent: Monday, January 8, 2024 1:31:06 PM\r\nTo: timesheets M",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAOGQrwYq1-ZFkOMsmvknnpg=",
+        "conversationIndex": "AQHaQi4r4ZCvBirX9kWQ4yya+SeemLDP9F5QgAAVl7CAAAIAMIAAMRGwgAFBpmw=",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEX4PvcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div dir=\"ltr\"><div dir=\"ltr\"><div dir=\"ltr\"><span id=\"ms-outlook-ios-cursor\"></span>Good morn<span>ing,</span></div><div dir=\"ltr\"><span><br></span></div><div dir=\"ltr\"><span>Here is the approved timesheet including approved hours of Jan 1st.</span></div><div dir=\"ltr\"><span><br></span></div><div dir=\"ltr\"><span>Thank you.</span></div><div dir=\"ltr\"><span><br></span></div><div dir=\"ltr\"><span>Sinc<span>erely,</span></span></div><div dir=\"ltr\"><span><span>Salman</span></span></div></div><div id=\"ms-outlook-mobile-signature\" dir=\"ltr\"></div></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> Manoj Shaw &lt;mashaw@enhanceit.com&gt;<br><b>Sent:</b> Monday, January 8, 2024 1:31:06 PM<br><b>To:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;; Salman Mostafa &lt;saMostafa@enhanceit.com&gt;<br><b>Cc:</b> Vanessa Cuervo &lt;vacuervo@enhanceit.com&gt;<br><b>Subject:</b> RE: Timesheet weekend 1/5/24</font> <div>&nbsp;</div></div><style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\np.x_MsoNormal, li.x_MsoNormal, div.x_MsoNormal\r\n\t{margin:0in;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\na:link, span.x_MsoHyperlink\r\n\t{color:blue;\r\n\ttext-decoration:underline}\r\np.x_xmsonormal, li.x_xmsonormal, div.x_xmsonormal\r\n\t{margin:0in;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.x_EmailStyle21\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.x_MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:1.0in 1.0in 1.0in 1.0in}\r\n-->\r\n</style><div lang=\"EN-IN\" style=\"word-wrap:break-word\"><div class=\"x_WordSection1\"><p class=\"x_MsoNormal\"><span style=\"\">If hours are approved, then we are good.</span></p><p class=\"x_MsoNormal\"><span style=\"\">&nbsp;</span></p><p class=\"x_MsoNormal\"><span style=\"\">Thanks,</span></p><p class=\"x_MsoNormal\"><span style=\"\">Manoj</span></p><p class=\"x_MsoNormal\"><span style=\"\">&nbsp;</span></p><div><div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\"><p class=\"x_MsoNormal\"><b><span lang=\"EN-US\">From:</span></b><span lang=\"EN-US\"> timesheets MAC &lt;timesheets@mobileappscompany.com&gt; <br><b>Sent:</b> Monday, January 8, 2024 10:33 AM<br><b>To:</b> Salman Mostafa &lt;saMostafa@enhanceit.com&gt;; timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Cc:</b> Vanessa Cuervo &lt;vacuervo@enhanceit.com&gt;; Manoj Shaw &lt;mashaw@enhanceit.com&gt;<br><b>Subject:</b> RE: Timesheet weekend 1/5/24</span></p></div></div><p class=\"x_MsoNormal\">&nbsp;</p><p class=\"x_MsoNormal\"><span style=\"\">+ Manoj for further help</span></p><p class=\"x_MsoNormal\"><span style=\"\">&nbsp;</span></p><div><div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\"><p class=\"x_MsoNormal\"><b><span lang=\"EN-US\">From:</span></b><span lang=\"EN-US\"> Salman Mostafa &lt;<a href=\"mailto:saMostafa@enhanceit.com\">saMostafa@enhanceit.com</a>&gt; <br><b>Sent:</b> Monday, January 8, 2024 10:28 AM<br><b>To:</b> timesheets MAC &lt;<a href=\"mailto:timesheets@mobileappscompany.com\">timesheets@mobileappscompany.com</a>&gt;<br><b>Cc:</b> Vanessa Cuervo &lt;<a href=\"mailto:vacuervo@enhanceit.com\">vacuervo@enhanceit.com</a>&gt;<br><b>Subject:</b> Re: Timesheet weekend 1/5/24</span></p></div></div><p class=\"x_MsoNormal\">&nbsp;</p><div><div><div><p class=\"x_MsoNormal\">Yes, confirmed. I did work.</p></div><div><p class=\"x_MsoNormal\">&nbsp;</p></div><div><p class=\"x_MsoNormal\">Sincerely,</p></div><div><p class=\"x_MsoNormal\">Salman</p></div></div></div><div id=\"x_ms-outlook-mobile-signature\"><div><p class=\"x_MsoNormal\">&nbsp;</p></div><p class=\"x_MsoNormal\">Get <a href=\"https://aka.ms/o0ukef\">Outlook for iOS</a></p></div><div class=\"x_MsoNormal\" align=\"center\" style=\"text-align:center\"><hr size=\"2\" width=\"98%\" align=\"center\"></div><div id=\"x_divRplyFwdMsg\"><p class=\"x_MsoNormal\"><b><span style=\"color:black\">From:</span></b><span style=\"color:black\"> timesheets MAC &lt;<a href=\"mailto:timesheets@mobileappscompany.com\">timesheets@mobileappscompany.com</a>&gt;<br><b>Sent:</b> Monday, January 8, 2024 9:08:54 AM<br><b>To:</b> Salman Mostafa &lt;<a href=\"mailto:saMostafa@enhanceit.com\">saMostafa@enhanceit.com</a>&gt;; timesheets MAC &lt;<a href=\"mailto:timesheets@mobileappscompany.com\">timesheets@mobileappscompany.com</a>&gt;<br><b>Cc:</b> Vanessa Cuervo &lt;<a href=\"mailto:vacuervo@enhanceit.com\">vacuervo@enhanceit.com</a>&gt;<br><b>Subject:</b> RE: Timesheet weekend 1/5/24</span> </p><div><p class=\"x_MsoNormal\">&nbsp;</p></div></div><div><div><p class=\"x_xmsonormal\">can you please confirm you have work hours for 1<sup>st</sup> Jan holiday?</p><p class=\"x_xmsonormal\">&nbsp;</p><p class=\"x_xmsonormal\">&nbsp;</p><p class=\"x_xmsonormal\">&nbsp;</p><div><div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0in 0in 0in\"><p class=\"x_xmsonormal\"><b><span lang=\"EN-US\">From:</span></b><span lang=\"EN-US\"> Salman Mostafa &lt;<a href=\"mailto:saMostafa@enhanceit.com\">saMostafa@enhanceit.com</a>&gt; <br><b>Sent:</b> Monday, January 8, 2024 7:29 AM<br><b>To:</b> timesheets MAC &lt;<a href=\"mailto:timesheets@mobileappscompany.com\">timesheets@mobileappscompany.com</a>&gt;<br><b>Cc:</b> Vanessa Cuervo &lt;<a href=\"mailto:vacuervo@enhanceit.com\">vacuervo@enhanceit.com</a>&gt;<br><b>Subject:</b> Timesheet weekend 1/5/24</span></p></div></div><p class=\"x_xmsonormal\">&nbsp;</p><div><div><p class=\"x_xmsonormal\">&nbsp;</p></div></div></div></div></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Manoj Shaw",
+                    "address": "mashaw@enhanceit.com"
+                }
+            },
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9e5\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEX4PvZAAA=",
+        "createdDateTime": "2024-01-08T12:28:23Z",
+        "lastModifiedDateTime": "2026-05-05T16:41:43Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9e5",
+        "categories": [],
+        "receivedDateTime": "2024-01-08T12:29:23Z",
+        "sentDateTime": "2024-01-08T12:29:22Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB62675775ADB815F6E7480526B36B2@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Timesheet weekend 1/5/24",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAOGQrwYq1-ZFkOMsmvknnpg=",
+        "conversationIndex": "AQHaQi4r4ZCvBirX9kWQ4yya+SeemA==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEX4PvZAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div dir=\"ltr\"><div dir=\"ltr\"><br></div><div id=\"ms-outlook-mobile-signature\" dir=\"ltr\"></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAES9FhM\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAETq9rPAAA=",
+        "createdDateTime": "2024-01-04T19:44:14Z",
+        "lastModifiedDateTime": "2024-01-04T19:44:39Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAES9FhM",
+        "categories": [],
+        "receivedDateTime": "2024-01-04T19:44:38Z",
+        "sentDateTime": "2024-01-04T19:44:36Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB62671234AA44C7D807992FB4B3672@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Pay period timesheets",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAO26fgaa69BCs9-1w00jKXM=",
+        "conversationIndex": "AQHaP0Zl7bp+Bprr0EKz3/XDTSMpcw==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAETq9rPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9e3\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAER74g3AAA=",
+        "createdDateTime": "2023-12-30T19:55:37Z",
+        "lastModifiedDateTime": "2026-05-05T16:41:42Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9e3",
+        "categories": [],
+        "receivedDateTime": "2023-12-30T19:57:05Z",
+        "sentDateTime": "2023-12-30T19:57:04Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB62673789F561F41C61A88741B39CA@DM6PR07MB6267.namprd07.prod.outlook.com>",
+        "subject": "Timesheet 12/29",
+        "bodyPreview": "Hello,\r\n\r\nHere is the 12/29 submitted timesheet. Thank you\r\n\r\nSincerely,\r\nSalman",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAJud9tjd8X1PkpEOFC-n19w=",
+        "conversationIndex": "AQHaO1oom5322N3xfU+SkQ4UL+fX3A==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAER74g3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div dir=\"ltr\"><div dir=\"ltr\">Hello,</div><div dir=\"ltr\"><br></div><div dir=\"ltr\">Here is the 12/29 submitted timesheet. Thank you</div><div dir=\"ltr\"><br></div><div dir=\"ltr\">Sincere<span>ly,<br>Salman</span></div><div id=\"ms-outlook-mobile-signature\" dir=\"ltr\"></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9e1\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEOYsQbAAA=",
+        "createdDateTime": "2023-12-25T20:02:45Z",
+        "lastModifiedDateTime": "2026-05-05T16:41:41Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9e1",
+        "categories": [],
+        "receivedDateTime": "2023-12-25T20:04:53Z",
+        "sentDateTime": "2023-12-25T20:04:51Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424AA00A2613DEBA064E1EDB399A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Timesheet",
+        "bodyPreview": "Hello,\r\n\r\nPlease find attached the 12/22 weekend timesheet\r\n\r\nSincerely,\r\nSalman",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAMeuN4fy_F1GnX8XrQIz2FY=",
+        "conversationIndex": "AQHaN21Tx643h/L4XUadfxetAjPYVg==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEOYsQbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div dir=\"ltr\"><div dir=\"ltr\">Hello,</div><div dir=\"ltr\"><br></div><div dir=\"ltr\">Please find&nbsp;<span>attached the 12/22 weekend timesheet</span></div><div dir=\"ltr\"><span><br></span></div><div dir=\"ltr\"><span>Sincer<span>ely,</span></span></div><div dir=\"ltr\"><span><span>Salman</span></span></div><div id=\"ms-outlook-mobile-signature\" dir=\"ltr\"></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEK3bm9\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAELkDKAAAA=",
+        "createdDateTime": "2023-12-20T19:26:10Z",
+        "lastModifiedDateTime": "2023-12-21T01:22:13Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEK3bm9",
+        "categories": [],
+        "receivedDateTime": "2023-12-20T19:27:11Z",
+        "sentDateTime": "2023-12-20T19:27:11Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424264A30EB45B34575F18AB396A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Re: Missing Timesheets",
+        "bodyPreview": "________________________________\r\nFrom: timesheets MAC <timesheets@mobileappscompany.com>\r\nSent: Wednesday, December 20, 2023 2:23 PM\r\nTo: Salman Mostafa <saMostafa@enhanceit.com>\r\nCc: Vanessa Cuervo <vacuervo@enhanceit.com>\r\nSubject: Re: Missing Timesh",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAJ38DP2SZkdLiKT0_HTzmf4=",
+        "conversationIndex": "AQHaM3aKnfwM/ZJmR0uIpPT4dPOZ/rCyjPllgAAA4Yo=",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAELkDKAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div id=\"appendonsend\"></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Sent:</b> Wednesday, December 20, 2023 2:23 PM<br><b>To:</b> Salman Mostafa &lt;saMostafa@enhanceit.com&gt;<br><b>Cc:</b> Vanessa Cuervo &lt;vacuervo@enhanceit.com&gt;<br><b>Subject:</b> Re: Missing Timesheets</font> <div>&nbsp;</div></div><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style><div dir=\"ltr\"><div class=\"x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Still missing your approved timesheet of WE 12/01/23 for payroll and billing. Please forward ASAP.</div><div class=\"x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Thanks,</div><div class=\"x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Manoj</div><div class=\"x_elementToProof\"><div id=\"x_Signature\"><div><div id=\"x_divtagdefaultwrapper\" style=\"font-size:12pt; font-family:Calibri,Arial,Helvetica,sans-serif; color:rgb(0,0,0); background-color:rgb(255,255,255)\"><p style=\"margin:0in 0in 0.0001pt; font-family:&quot;Times New Roman&quot;,serif; font-size:12pt\"><br></p><p style=\"margin-bottom:0.0001pt; font-family:Calibri,Arial,Helvetica,sans-serif; font-size:16px\"><span style=\"font-family:&quot;Times New Roman&quot;,serif; font-size:10pt\"><br></span></p><br></div></div></div></div><div id=\"x_appendonsend\"></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"x_divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> Salman Mostafa &lt;saMostafa@enhanceit.com&gt;<br><b>Sent:</b> Wednesday, December 20, 2023 2:00 PM<br><b>To:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Cc:</b> Vanessa Cuervo &lt;vacuervo@enhanceit.com&gt;<br><b>Subject:</b> Missing Timesheets</font> <div>&nbsp;</div></div><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style><div dir=\"ltr\"><div class=\"x_x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Hello payroll team,</div><div class=\"x_x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"x_x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Please find attached the missing timesheets for this payroll. Please let me&nbsp;know if you have any questions.</div><div class=\"x_x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"x_x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Sincerely, <div>Salman</div></div></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEK3ayF\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAELkDJ-AAA=",
+        "createdDateTime": "2023-12-20T18:58:37Z",
+        "lastModifiedDateTime": "2023-12-20T19:00:17Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEK3ayF",
+        "categories": [],
+        "receivedDateTime": "2023-12-20T19:00:15Z",
+        "sentDateTime": "2023-12-20T19:00:14Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424530F21324BE9FADB7C6CB396A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Missing Timesheets",
+        "bodyPreview": "Hello payroll team,\r\n\r\nPlease find attached the missing timesheets for this payroll. Please let me know if you have any questions.\r\n\r\nSincerely,\r\nSalman",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAJ38DP2SZkdLiKT0_HTzmf4=",
+        "conversationIndex": "AQHaM3aKnfwM/ZJmR0uIpPT4dPOZ/g==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAELkDJ%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Hello payroll team,</div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Please find attached the missing timesheets for this payroll. Please let me&nbsp;know if you have any questions.</div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Sincerely, <div>Salman</div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEFbN0n\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEGHCXdAAA=",
+        "createdDateTime": "2023-12-12T17:25:46Z",
+        "lastModifiedDateTime": "2023-12-12T17:26:38Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAEFbN0n",
+        "categories": [],
+        "receivedDateTime": "2023-12-12T17:26:38Z",
+        "sentDateTime": "2023-12-12T17:26:37Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424D6E15D0AC96CAAD078F2B38EA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Submitted timesheet 12-09-2023 to  12-15-2023",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAIvmmciM1KBHsWxGWt7K8Ks=",
+        "conversationIndex": "AQHaLSA+i+aZyIzUoEexbEZa3srwqw==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAEGHCXdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAD9ingp\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD_NOU0AAA=",
+        "createdDateTime": "2023-12-01T13:40:51Z",
+        "lastModifiedDateTime": "2023-12-01T13:41:16Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAD9ingp",
+        "categories": [],
+        "receivedDateTime": "2023-12-01T13:41:14Z",
+        "sentDateTime": "2023-12-01T13:41:13Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB64244E6FB450B5A33AAF64E9B381A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAOsgCnH0dc9Gi98MGHrv9pU=",
+        "conversationIndex": "AQHaJFv/6yAKcfR1z0aL3wwYeu/2lQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD%2BNOU0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9ej\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD8XqmuAAA=",
+        "createdDateTime": "2023-11-27T22:04:35Z",
+        "lastModifiedDateTime": "2026-05-05T16:41:17Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9ej",
+        "categories": [],
+        "receivedDateTime": "2023-11-27T22:05:09Z",
+        "sentDateTime": "2023-11-27T22:05:08Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424144C5B12B39B4DCD8266B3BDA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Re: Timesheet",
+        "bodyPreview": "Here is the approval from my manager. Thanks!\r\n________________________________\r\nFrom: timesheets MAC <timesheets@mobileappscompany.com>\r\nSent: Monday, November 27, 2023 3:30 AM\r\nTo: Salman Mostafa <saMostafa@enhanceit.com>; timesheets MAC <timesheets@mob",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAESVkzlx9HhPiAn6nAAgvKk=",
+        "conversationIndex": "AQHaIPkgRJWTOXH0eE+ICfqcACC8qbCN1f3ggADje/w=",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD8XqmuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Here is the approval from my manager. Thanks!</div><div id=\"appendonsend\"></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Sent:</b> Monday, November 27, 2023 3:30 AM<br><b>To:</b> Salman Mostafa &lt;saMostafa@enhanceit.com&gt;; timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Cc:</b> Vanessa Cuervo &lt;vacuervo@enhanceit.com&gt;<br><b>Subject:</b> RE: Timesheet</font> <div>&nbsp;</div></div><style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\n@font-face\r\n\t{font-family:Aptos}\r\np.x_MsoNormal, li.x_MsoNormal, div.x_MsoNormal\r\n\t{margin:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.x_EmailStyle19\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.x_MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\n-->\r\n</style><div lang=\"EN-IN\" style=\"word-wrap:break-word\"><div class=\"x_WordSection1\"><p class=\"x_MsoNormal\"><span style=\"\">Can you please share manager approval over email to work billable hours on Thanksgiving holiday day? Thank you.</span></p><p class=\"x_MsoNormal\"><span style=\"\">&nbsp;</span></p><p class=\"x_MsoNormal\"><span style=\"\">&nbsp;</span></p><p class=\"x_MsoNormal\"><span style=\"\">&nbsp;</span></p><div><div style=\"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm\"><p class=\"x_MsoNormal\"><b><span lang=\"EN-US\">From:</span></b><span lang=\"EN-US\"> Salman Mostafa &lt;saMostafa@enhanceit.com&gt; <br><b>Sent:</b> Monday, November 27, 2023 1:26 AM<br><b>To:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Cc:</b> Vanessa Cuervo &lt;vacuervo@enhanceit.com&gt;<br><b>Subject:</b> Timesheet</span></p></div></div><p class=\"x_MsoNormal\">&nbsp;</p><div><p class=\"x_MsoNormal\"><span style=\"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; color:black\">Hello,</span></p></div><div><p class=\"x_MsoNormal\"><span style=\"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; color:black\">&nbsp;</span></p></div><div><p class=\"x_MsoNormal\"><span style=\"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; color:black\">Please note, the hours are 39 hours. I counted Thanksgiving as a partial working day because I worked from 8 AM to 3:00 PM on Thanksgiving day without a lunch break. Also, I got approval from Shivani to pick up the work on Monday, 11/27/23 (i.e. not work on Friday) so I counted the day as a full working day.&nbsp;</span></p></div><div><p class=\"x_MsoNormal\"><span style=\"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; color:black\">&nbsp;</span></p></div><div><p class=\"x_MsoNormal\"><span style=\"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; color:black\">However, I still do not know if that day (Friday or Thanksgiving) I get off with pay or not. If my manager does not approve the timesheet, I'll inform you to not get paid for that day. I do not want to get PTO for that day. I did get an Okay from Shivani to not work on Friday, though. It's just a matter of whether that day will be counted for pay or not. I can send you a screenshot of Shivani's message if needed</span></p></div><div><p class=\"x_MsoNormal\"><span style=\"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; color:black\">&nbsp;</span></p></div><div><p class=\"x_MsoNormal\"><span style=\"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; color:black\">Sincerely,</span></p></div><div><p class=\"x_MsoNormal\"><span style=\"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; color:black\">Salman</span></p></div></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAD7tPG4\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD8XqmsAAA=",
+        "createdDateTime": "2023-11-27T17:11:58Z",
+        "lastModifiedDateTime": "2023-11-27T17:12:57Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAD7tPG4",
+        "categories": [],
+        "receivedDateTime": "2023-11-27T17:12:40Z",
+        "sentDateTime": "2023-11-27T17:12:40Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB64242CBA15963225D42F7F5AB3BDA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Re: Timesheet",
+        "bodyPreview": "The manager approved the timesheet as is 🙂\r\n\r\n________________________________\r\nFrom: timesheets MAC <timesheets@mobileappscompany.com>\r\nSent: Monday, November 27, 2023 3:30 AM\r\nTo: Salman Mostafa <saMostafa@enhanceit.com>; timesheets MAC <timesheets@mob",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAESVkzlx9HhPiAn6nAAgvKk=",
+        "conversationIndex": "AQHaIPkgRJWTOXH0eE+ICfqcACC8qbCN1f3ggACRuuo=",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD8XqmsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">The manager approved the timesheet as is <span id=\"🙂\">🙂</span></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><hr style=\"display:inline-block; width:98%\"><div id=\"divRplyFwdMsg\" dir=\"ltr\"><span style=\"font-family:Calibri,sans-serif; font-size:11pt; color:rgb(0,0,0)\"><b>From:</b>&nbsp;timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Sent:</b>&nbsp;Monday, November 27, 2023 3:30 AM<br><b>To:</b>&nbsp;Salman Mostafa &lt;saMostafa@enhanceit.com&gt;; timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Cc:</b>&nbsp;Vanessa Cuervo &lt;vacuervo@enhanceit.com&gt;<br><b>Subject:</b>&nbsp;RE: Timesheet</span> <div>&nbsp;</div></div><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\">Can you please share manager approval over email to work billable hours on Thanksgiving holiday day? Thank you.</p><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\">&nbsp;</p><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\">&nbsp;</p><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\">&nbsp;</p><div style=\"padding:3pt 0cm 0cm; border-top:1pt solid rgb(225,225,225)\"><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\"><b>From:</b>&nbsp;Salman Mostafa &lt;saMostafa@enhanceit.com&gt;<br><b>Sent:</b>&nbsp;Monday, November 27, 2023 1:26 AM<br><b>To:</b>&nbsp;timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Cc:</b>&nbsp;Vanessa Cuervo &lt;vacuervo@enhanceit.com&gt;<br><b>Subject:</b>&nbsp;Timesheet</p></div><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\">&nbsp;</p><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\"><span style=\"font-family:Aptos,sans-serif; font-size:12pt; color:black\">Hello,</span></p><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\"><span style=\"font-family:Aptos,sans-serif; font-size:12pt; color:black\">&nbsp;</span></p><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\"><span style=\"font-family:Aptos,sans-serif; font-size:12pt; color:black\">Please note, the hours are 39 hours. I counted Thanksgiving as a partial working day because I worked from 8 AM to 3:00 PM on Thanksgiving day without a lunch break. Also, I got approval from Shivani to pick up the work on Monday, 11/27/23 (i.e. not work on Friday) so I counted the day as a full working day.&nbsp;</span></p><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\"><span style=\"font-family:Aptos,sans-serif; font-size:12pt; color:black\">&nbsp;</span></p><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\"><span style=\"font-family:Aptos,sans-serif; font-size:12pt; color:black\">However, I still do not know if that day (Friday or Thanksgiving) I get off with pay or not. If my manager does not approve the timesheet, I'll inform you to not get paid for that day. I do not want to get PTO for that day. I did get an Okay from Shivani to not work on Friday, though. It's just a matter of whether that day will be counted for pay or not. I can send you a screenshot of Shivani's message if needed</span></p><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\"><span style=\"font-family:Aptos,sans-serif; font-size:12pt; color:black\">&nbsp;</span></p><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\"><span style=\"font-family:Aptos,sans-serif; font-size:12pt; color:black\">Sincerely,</span></p><p style=\"margin:0cm; font-family:Calibri,sans-serif; font-size:11pt\"><span style=\"font-family:Aptos,sans-serif; font-size:12pt; color:black\">Salman</span></p></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAD7tPGU\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD8XqmrAAA=",
+        "createdDateTime": "2023-11-27T17:08:54Z",
+        "lastModifiedDateTime": "2023-11-27T17:12:13Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAD7tPGU",
+        "categories": [],
+        "receivedDateTime": "2023-11-27T17:11:57Z",
+        "sentDateTime": "2023-11-27T17:11:53Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424E4E8ED8DFDC128EABE09B3BDA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Re: submitted timesheet",
+        "bodyPreview": "________________________________\r\nFrom: timesheets MAC <timesheets@mobileappscompany.com>\r\nSent: Monday, November 27, 2023 11:58 AM\r\nTo: Salman Mostafa <saMostafa@enhanceit.com>\r\nCc: Vanessa Cuervo <vacuervo@enhanceit.com>\r\nSubject: Re: submitted timesh",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQADrFi5qcXZRFvXdqsUDNUGU=",
+        "conversationIndex": "AQHaGh0EOsWLmpxdlEW9d2qxQM1QZbCOcW8IgAADJJ4=",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD8XqmrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div id=\"appendonsend\"></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Sent:</b> Monday, November 27, 2023 11:58 AM<br><b>To:</b> Salman Mostafa &lt;saMostafa@enhanceit.com&gt;<br><b>Cc:</b> Vanessa Cuervo &lt;vacuervo@enhanceit.com&gt;<br><b>Subject:</b> Re: submitted timesheet</font> <div>&nbsp;</div></div><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style><div dir=\"ltr\"><div class=\"x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Please forward your approved timesheet of WE 11/17/23 ASAP for billing.</div><div class=\"x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Thanks,</div><div class=\"x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Manoj</div><div class=\"x_elementToProof\"><div id=\"x_Signature\"><div><div id=\"x_divtagdefaultwrapper\" style=\"font-size:12pt; font-family:Calibri,Arial,Helvetica,sans-serif; color:rgb(0,0,0); background-color:rgb(255,255,255)\"><p style=\"margin:0in 0in 0.0001pt; font-family:&quot;Times New Roman&quot;,serif; font-size:12pt\"><br></p><p style=\"margin-bottom:0.0001pt; font-family:Calibri,Arial,Helvetica,sans-serif; font-size:16px\"><span style=\"font-family:&quot;Times New Roman&quot;,serif; font-size:10pt\"><br></span></p><br></div></div></div></div><div id=\"x_appendonsend\"></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"x_divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> Salman Mostafa &lt;saMostafa@enhanceit.com&gt;<br><b>Sent:</b> Saturday, November 18, 2023 7:45 AM<br><b>To:</b> timesheets MAC &lt;timesheets@mobileappscompany.com&gt;<br><b>Cc:</b> Vanessa Cuervo &lt;vacuervo@enhanceit.com&gt;<br><b>Subject:</b> submitted timesheet</font> <div>&nbsp;</div></div><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style><div dir=\"ltr\"><div class=\"x_x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAD7KEFp\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD70XA4AAA=",
+        "createdDateTime": "2023-11-27T06:15:32Z",
+        "lastModifiedDateTime": "2023-11-27T06:26:02Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAD7KEFp",
+        "categories": [],
+        "receivedDateTime": "2023-11-27T06:25:59Z",
+        "sentDateTime": "2023-11-27T06:25:57Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424F446F2260B42CC25F61FB3BDA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Timesheet",
+        "bodyPreview": "Hello,\r\n\r\nPlease note, the hours are 39 hours. I counted Thanksgiving as a partial working day because I worked from 8 AM to 3:00 PM on Thanksgiving day without a lunch break. Also, I got approval from Shivani to pick up the work on Monday, 11/27/23 (i.e.",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAESVkzlx9HhPiAn6nAAgvKk=",
+        "conversationIndex": "AQHaIPkgRJWTOXH0eE+ICfqcACC8qQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD70XA4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Hello,</div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Please note, the hours are 39 hours. I counted Thanksgiving as a partial working day because I worked from 8 AM to 3:00 PM on Thanksgiving day without a lunch break. Also, I got approval from Shivani to pick up the work on Monday, 11/27/23 (i.e. not work on Friday) so I counted the day as a full working day.&nbsp;</div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">However, I still do not know if that day (Friday or Thanksgiving) I get off with pay or not. If my manager does not approve the timesheet, I'll inform you to not get paid for that day. I do not want to get PTO for that day. I did get an Okay from Shivani to not work on Friday, though. It's just a matter of whether that day will be counted for pay or not. I can send you a screenshot of Shivani's message if needed</div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Sincerely,</div><div class=\"elementToProof\"><span style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Salman</span></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAD1ipfO\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD2MNF9AAA=",
+        "createdDateTime": "2023-11-18T12:44:48Z",
+        "lastModifiedDateTime": "2023-11-18T12:45:08Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAAD1ipfO",
+        "categories": [],
+        "receivedDateTime": "2023-11-18T12:45:07Z",
+        "sentDateTime": "2023-11-18T12:45:05Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB642488B971578DA7D0C37BD5B3B6A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "submitted timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQADrFi5qcXZRFvXdqsUDNUGU=",
+        "conversationIndex": "AQHaGh0EOsWLmpxdlEW9d2qxQM1QZQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAAD2MNF9AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADy8Nq7\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADzlgYyAAA=",
+        "createdDateTime": "2023-11-15T15:15:57Z",
+        "lastModifiedDateTime": "2023-11-15T17:20:00Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADy8Nq7",
+        "categories": [],
+        "receivedDateTime": "2023-11-15T15:16:21Z",
+        "sentDateTime": "2023-11-15T15:16:20Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB64240031E0F98AEBC7DE7EFAB3B1A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAFLq_Aa3jpFLl3qY0l_cu0k=",
+        "conversationIndex": "AQHaF9aiUur4BreOkUuXepjSX5y7SQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADzlgYyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9ep\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADwLPu2AAA=",
+        "createdDateTime": "2023-11-10T12:20:08Z",
+        "lastModifiedDateTime": "2026-05-05T16:41:20Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAANFU9ep",
+        "categories": [],
+        "receivedDateTime": "2023-11-10T12:21:46Z",
+        "sentDateTime": "2023-11-10T12:21:45Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424F3B4C0A7161127214121B3AEA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Timesheet 11/04-11/10",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAK-Y2C5ZydhHkXxm621S32s=",
+        "conversationIndex": "AQHaE9A+r9jYLlnJ2EeRfGbrbVLfaw==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADwLPu2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div dir=\"ltr\"><div></div><div><div dir=\"ltr\"></div><div id=\"ms-outlook-mobile-signature\" dir=\"ltr\"></div></div></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADtq5fi\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADuTerAAAA=",
+        "createdDateTime": "2023-11-06T16:54:16Z",
+        "lastModifiedDateTime": "2023-11-06T18:55:47Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADtq5fi",
+        "categories": [],
+        "receivedDateTime": "2023-11-06T18:55:46Z",
+        "sentDateTime": "2023-11-06T18:55:45Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB64249E9DFF2CF5BD3796AC48B3AAA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Approved Timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQADfrdVRiqYNFmSsoOTMYKAw=",
+        "conversationIndex": "AQHaENHgN+t1VGKpg0WZKyg5MxgoDA==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADuTerAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADpQid2\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADp4aElAAA=",
+        "createdDateTime": "2023-10-31T14:33:20Z",
+        "lastModifiedDateTime": "2023-10-31T14:33:24Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADpQid2",
+        "categories": [],
+        "receivedDateTime": "2023-10-31T14:33:23Z",
+        "sentDateTime": "2023-10-31T14:33:22Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB64243F33FA9EA0EAC8A861EFB3A0A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Approved Timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQADErIryD4HhMo1lcEtnZc3s=",
+        "conversationIndex": "AQHaDAcxMSsivIPgeEyjWVwS2dlzew==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADp4aElAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADpQfwr\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADp4aEkAAA=",
+        "createdDateTime": "2023-10-30T15:47:33Z",
+        "lastModifiedDateTime": "2023-10-30T16:53:24Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADpQfwr",
+        "categories": [],
+        "receivedDateTime": "2023-10-30T15:47:37Z",
+        "sentDateTime": "2023-10-30T15:47:36Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424CD596AFC3D3C5707995CB3A1A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAFEsJggwZVRHoaRqq_XhgCE=",
+        "conversationIndex": "AQHaC0hmUSwmCDBlVEehpGqr5eGAIQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADp4aEkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADlMH5l\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADlzlctAAA=",
+        "createdDateTime": "2023-10-24T16:12:02Z",
+        "lastModifiedDateTime": "2023-10-24T16:51:41Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADlMH5l",
+        "categories": [],
+        "receivedDateTime": "2023-10-24T16:12:05Z",
+        "sentDateTime": "2023-10-24T16:12:05Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424390269D202E02BC2D5D6B3DFA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAGCrz178b7tHnJbGB8djU4k=",
+        "conversationIndex": "AQHaBpTTYKvPXvxvu0eclsYHx2NTiQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADlzlctAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADhLa36\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADhyS01AAA=",
+        "createdDateTime": "2023-10-18T15:27:25Z",
+        "lastModifiedDateTime": "2023-10-18T15:28:04Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADhLa36",
+        "categories": [],
+        "receivedDateTime": "2023-10-18T15:28:03Z",
+        "sentDateTime": "2023-10-18T15:28:02Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424875D596FC80B285991DBB3D5A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Approved Timesheet ",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQABX3kKKP2nFKgRMwiLenMIc=",
+        "conversationIndex": "AQHaAdeYFfeQoo/acUqBEzCIt6cwhw==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADhyS01AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADge7jx\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADhFhncAAA=",
+        "createdDateTime": "2023-10-17T03:32:36Z",
+        "lastModifiedDateTime": "2023-10-17T03:34:08Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADge7jx",
+        "categories": [],
+        "receivedDateTime": "2023-10-17T03:34:07Z",
+        "sentDateTime": "2023-10-17T03:34:06Z",
+        "hasAttachments": true,
+        "internetMessageId": "<DM6PR07MB6427096B7350657892D35AD7B3D6A@DM6PR07MB6427.namprd07.prod.outlook.com>",
+        "subject": "Salman Mostafa submitted 10-7-23 to 10-13-23 timesheet",
+        "bodyPreview": "Hello,\r\n\r\nSorry for the delay in submitting this.\r\n\r\nSincerely,\r\nSalman",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQABN95S033cRLj1LxLvpYskA=",
+        "conversationIndex": "AQHaAKqSE33lLTfdxEuPUvEu+liyQA==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADhFhncAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Hello,<br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Sorry for the delay in submitting this.</div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Sincerely,</div><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Salman</div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADcb+HY\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADcpnr-AAA=",
+        "createdDateTime": "2023-10-10T22:04:13Z",
+        "lastModifiedDateTime": "2023-10-11T00:00:44Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADcb+HY",
+        "categories": [],
+        "receivedDateTime": "2023-10-10T22:04:24Z",
+        "sentDateTime": "2023-10-10T22:04:22Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB642403B3D3413E4E9AF09776B3CDA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Salman Mostafa 9-30 to 10-06 Approved timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAN9ExMNeXFRAu5PL4baCWBg=",
+        "conversationIndex": "AQHZ+8W030TEw15cVEC7k8vhtoJYGA==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADcpnr%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADbVOos\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADb6xY6AAA=",
+        "createdDateTime": "2023-10-09T21:57:03Z",
+        "lastModifiedDateTime": "2023-10-09T21:57:30Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADbVOos",
+        "categories": [],
+        "receivedDateTime": "2023-10-09T21:57:30Z",
+        "sentDateTime": "2023-10-09T21:57:29Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB6424E571C53068650C239774B3CEA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Salman Mostafa 9-30 to 10-06 Submitted timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAG19SZmWyK1Kn7ISbHk5U2E=",
+        "conversationIndex": "AQHZ+vuJbX1JmZbIrUqfshJseTlTYQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADb6xY6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADXzwfD\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADYYuwOAAA=",
+        "createdDateTime": "2023-10-04T14:44:38Z",
+        "lastModifiedDateTime": "2023-10-04T14:44:42Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADXzwfD",
+        "categories": [],
+        "receivedDateTime": "2023-10-04T14:44:41Z",
+        "sentDateTime": "2023-10-04T14:44:40Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB64244376919BAFB48B5553D8B3CBA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Salman approved timesheet 9-23 to 9-29",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAE9IwAobo8xLvQQY-kuIg8Q=",
+        "conversationIndex": "AQHZ9tFMT0jAChujzEu9BBj+S4iDxA==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADYYuwOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADW1iDa\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADXaMG5AAA=",
+        "createdDateTime": "2023-10-02T15:34:59Z",
+        "lastModifiedDateTime": "2023-10-02T15:35:27Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADW1iDa",
+        "categories": [],
+        "receivedDateTime": "2023-10-02T15:35:26Z",
+        "sentDateTime": "2023-10-02T15:35:25Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB642449EDF50D013016A01C40B3C5A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Submitted Timesheet 9/23 to 9/29",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAOd7Ck9WkXNBgt9jn86Shgk=",
+        "conversationIndex": "AQHZ9UYB53sKT1aRc0GC32OfzpKGCQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADXaMG5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADRjQsL\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADSHWfIAAA=",
+        "createdDateTime": "2023-09-27T00:50:21Z",
+        "lastModifiedDateTime": "2023-09-27T00:50:45Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADRjQsL",
+        "categories": [],
+        "receivedDateTime": "2023-09-27T00:50:44Z",
+        "sentDateTime": "2023-09-27T00:50:42Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB64249A04AD817796E7460C4EB3C2A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Approved Timesheet for 09/16/2023 to 09/22/2023",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQADPNy9A-cMZEuSBGXd4-Hxk=",
+        "conversationIndex": "AQHZ8NyXM83L0D9wxkS5IEZd3j8fGQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADSHWfIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADRjMbM\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADSHWfHAAA=",
+        "createdDateTime": "2023-09-25T18:07:04Z",
+        "lastModifiedDateTime": "2023-09-25T18:07:38Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADRjMbM",
+        "categories": [],
+        "receivedDateTime": "2023-09-25T18:07:37Z",
+        "sentDateTime": "2023-09-25T18:07:36Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB642493CE3F31998CA2801510B3FCA@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Submitted Timesheet 09/16/2023 to 09/22/2023",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAMtDVQVnIbFNihnpSB6-SZw=",
+        "conversationIndex": "AQHZ79sWy0NVBWchsU2KGelIHr9JnA==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADSHWfHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADO1vEi\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADPZfu7AAA=",
+        "createdDateTime": "2023-09-20T15:52:19Z",
+        "lastModifiedDateTime": "2023-09-20T18:01:11Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADO1vEi",
+        "categories": [],
+        "receivedDateTime": "2023-09-20T15:52:42Z",
+        "sentDateTime": "2023-09-20T15:52:41Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB642456D9CE92BD876216029DB3F9A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Approved Timesheet Week of 9/15/23",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAPTBbI4jqv9ApADi8isufOk=",
+        "conversationIndex": "AQHZ69pv9MFsjiOq/0CkAOLyKy586Q==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADPZfu7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADMegLZ\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADNBtWuAAA=",
+        "createdDateTime": "2023-09-17T01:06:11Z",
+        "lastModifiedDateTime": "2023-09-17T03:31:26Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADMegLZ",
+        "categories": [],
+        "receivedDateTime": "2023-09-17T01:07:14Z",
+        "sentDateTime": "2023-09-17T01:07:13Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB64245A74B327053C1AE8060CB3F4A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQADdLgd3sev5Gv3CrI2gczyk=",
+        "conversationIndex": "AQHZ6QMlN0uB3ex6/ka/cKsjaBzPKQ==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADNBtWuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets MAC",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    },
+    {
+        "@odata.etag": "W/\"CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADJZD5i\"",
+        "id": "AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd_MWgW_HITKHZyP_fstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADJ7qgTAAA=",
+        "createdDateTime": "2023-09-12T14:08:59Z",
+        "lastModifiedDateTime": "2023-09-12T15:34:50Z",
+        "changeKey": "CQAAABYAAACRzdadMySeT5oa5m5xYMtpAADJZD5i",
+        "categories": [],
+        "receivedDateTime": "2023-09-12T14:09:19Z",
+        "sentDateTime": "2023-09-12T14:09:18Z",
+        "hasAttachments": true,
+        "internetMessageId": "<CH2PR07MB64243001E496130B804C263DB3F1A@CH2PR07MB6424.namprd07.prod.outlook.com>",
+        "subject": "Timesheet",
+        "bodyPreview": "",
+        "importance": "normal",
+        "parentFolderId": "AQMkADE5OQBjM2ZkOS03YTkwLTQ1NmEtYmY5Ni05MTI1NzMyZTUyZTAALgAAA934xaBb4chModnI-5_y2Z0BAJHN1p0zJJ5PmhrmbnFgy2kAAAIBCQAAAA==",
+        "conversationId": "AAQkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMAAQAEQPGBceeudLlPXKpWeiMbM=",
+        "conversationIndex": "AQHZ5YKsRA8YFx5650uU9cqlZ6Ixsw==",
+        "isDeliveryReceiptRequested": false,
+        "isReadReceiptRequested": false,
+        "isRead": true,
+        "isDraft": false,
+        "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADE5OWMzZmQ5LTdhOTAtNDU2YS1iZjk2LTkxMjU3MzJlNTJlMABGAAAAAADd%2BMWgW%2BHITKHZyP%2BfstmdBwCRzdadMySeT5oa5m5xYMtpAAAAAAEJAACRzdadMySeT5oa5m5xYMtpAADJ7qgTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "inferenceClassification": "focused",
+        "body": {
+            "contentType": "html",
+            "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\"><br></div></body></html>"
+        },
+        "sender": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "from": {
+            "emailAddress": {
+                "name": "Salman Mostafa",
+                "address": "saMostafa@enhanceit.com"
+            }
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "name": "timesheets@mobileappscompany.com",
+                    "address": "timesheets@mobileappscompany.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "name": "Vanessa Cuervo",
+                    "address": "vacuervo@enhanceit.com"
+                }
+            }
+        ],
+        "bccRecipients": [],
+        "replyTo": [],
+        "flag": {
+            "flagStatus": "notFlagged"
+        }
+    }
+]
