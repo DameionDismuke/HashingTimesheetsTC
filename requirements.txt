@@ -6,5 +6,6 @@ pandas
 pillow
 requests
 pydantic
+pytest
 python-dotenv
 azure-identity
