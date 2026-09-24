@@ -3,10 +3,11 @@ openpyxl
 langchain
 langchain_openai
 pandas
-pillow
+Pillow
 requests
 pydantic
 pytest
 python-dotenv
+PyMuPDF
 azure-identity
 azure-cosmos
