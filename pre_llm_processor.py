@@ -5,6 +5,7 @@ from typing import Any
 from document_processing import render_pdf_pages
 from hashing_pipeline import (
     HashingResult,
+    HashStore,
     prepare_message_for_llm,
 )
 
@@ -55,7 +56,7 @@ def encode_for_llm(
 def prepare_graph_message(
     message: dict[str, Any],
     attachments: list[dict[str, Any]],
-    hash_store: Any,
+    hash_store: HashStore,
 ) -> PreLLMResult:
     """
     Production pre-LLM processing entry point.

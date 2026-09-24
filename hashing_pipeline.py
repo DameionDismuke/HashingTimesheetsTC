@@ -1,7 +1,6 @@
 from dataclasses import dataclass, field
-from typing import Any, Callable
+from typing import Any, Callable, Protocol
 
-from cosmos_hash_store import CosmosHashStore
 from hashing import (
     create_attachment_hash,
     create_message_hash,
@@ -9,6 +8,29 @@ from hashing import (
     decode_base64_content,
 )
 
+
+class HashStore(Protocol):
+    """
+    Interface required by the hashing pipeline.
+
+    Any storage implementation is valid as long as
+    it can check and save hashes.
+    """
+
+    def hash_exists(
+        self,
+        hash_value: str,
+    ) -> bool:
+        ...
+
+    def save_hash(
+        self,
+        hash_value: str,
+        hash_type: str,
+        **metadata: Any,
+    ) -> dict[str, Any]:
+        ...
+        
 
 def empty_metadata() -> dict[str, Any]:
     return {}
@@ -62,7 +84,7 @@ def is_pdf(
 def prepare_message_for_llm(
     message: dict[str, Any],
     attachments: list[dict[str, Any]],
-    hash_store: CosmosHashStore,
+    hash_store: HashStore,
     render_pdf_pages: Callable[
         [bytes],
         list[bytes],
@@ -259,7 +281,7 @@ def prepare_message_for_llm(
 
 
 def commit_successful_hashes(
-    hash_store: CosmosHashStore,
+    hash_store: HashStore,
     pending_hashes: list[PendingHash],
 ) -> None:
     """
