@@ -6,7 +6,12 @@ from azure.cosmos.exceptions import (
 )
 
 from cosmos_hash_store import CosmosHashStore
+from typing import Any
 
+def return_item(
+    item: dict[str, Any],
+) -> dict[str, Any]:
+    return item
 
 def create_store():
     client = MagicMock()
@@ -59,9 +64,7 @@ def test_missing_hash_returns_false():
 def test_save_hash_writes_expected_item():
     store, container = create_store()
 
-    container.upsert_item.side_effect = (
-        lambda item: item
-    )
+    container.upsert_item.side_effect = return_item
 
     result = store.save_hash(
         "hash123",

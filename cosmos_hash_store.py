@@ -26,12 +26,12 @@ class CosmosHashStore:
     """
 
     def __init__(
-    self,
-    client: CosmosClient,
-    container: ContainerProxy,
-) -> None:
-    self.client = client
-    self.container = container
+        self,
+        client: CosmosClient,
+        container: ContainerProxy,
+    ) -> None:
+        self.client = client
+        self.container = container
 
     @classmethod
     def from_env(cls) -> "CosmosHashStore":
@@ -126,7 +126,7 @@ class CosmosHashStore:
                 "hash_type cannot be empty."
             )
 
-        item = {
+        item: dict[str, Any] = {
             "id": hash_value,
             "hash": hash_value,
             "type": hash_type,
@@ -138,7 +138,7 @@ class CosmosHashStore:
         }
 
         response = self.container.upsert_item(
-    item
-)
+            item
+        )
 
-return dict(response)
+        return dict(response)
